@@ -1,0 +1,12 @@
+---
+title: "Yingxuan_Sun_website"
+---
+
+Hi, I'm Yingxuan Sun. I'm now majoring in Cognitive Science, with minors in Psychology and Statistics at the University of Toronto.\
+I am a person known for my cheerful and flexible personality, excelling in communication and possessing remarkable adaptability.
+
+\
+[View my CV](YINGXUAN SUN-Resume.pdf)
+
+```{}
+```
