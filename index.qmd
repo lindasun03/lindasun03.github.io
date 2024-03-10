@@ -6,7 +6,7 @@ Hi, I'm Yingxuan Sun. I'm now majoring in Cognitive Science, with minors in Psyc
 I am a person known for my cheerful and flexible personality, excelling in communication and possessing remarkable adaptability.
 
 \
-[View my CV](YINGXUAN SUN-Resume.pdf)
+[View my CV](YINGXUAN%20SUN-Resume.pdf)
 
-```{}
+```         
 ```
